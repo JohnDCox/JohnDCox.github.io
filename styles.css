@@ -1,9 +1,22 @@
 body
 {
-    background:bisque;
+    background:beige;
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.assignment 
+{
+    background: turquoise;
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+
+.assignment img
+{
+    width: 200px;
+    padding: 10px;
+}
 h1
 {
     color: darkblue;
